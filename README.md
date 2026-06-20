@@ -51,7 +51,7 @@ Random Forest outperformed Linear Regression.
 - Matplotlib
 
 Shashank Upadhayay
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2b0634a-6a74-402c-a80e-671a1809ebd3" />
+![Model Comparison](model_comparison_voltage.png)
 
 ## Author
 Shashank Upadhayay
